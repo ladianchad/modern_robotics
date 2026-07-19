@@ -11,6 +11,7 @@ const data: IChapterData[] = [
         contents: lazy(() => import("./Chapter1")),
         sections: [
             "What Is a Robot?",
+            "Actuators, Transmissions, and Sensors",
             "Configuration and Degrees of Freedom",
             "Chapter Roadmap",
         ],
