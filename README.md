@@ -15,6 +15,12 @@ Interactive study notes for **Kevin M. Lynch & Frank C. Park's**
 ![Babylon.js](https://img.shields.io/badge/Babylon.js-7-BB464B?logo=babylondotjs&logoColor=white)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
+<img src=".github/assets/home.png" alt="Landing page: a mecanum-wheeled mobile manipulator driving through a small room, its end-effector drawing a glowing trail" width="100%"/>
+
+| Hybrid motion–force control · Ch.11 | Potential fields · Ch.10 | Lie-bracket parking · Ch.13 |
+| :---: | :---: | :---: |
+| <img src=".github/assets/fig-hybrid.png" alt="Whiteboard-erasing simulation: motion control along the board, force control into it"/> | <img src=".github/assets/fig-potential.png" alt="Costmap-style potential field with tunable attraction, repulsion, and range"/> | <img src=".github/assets/fig-parking.png" alt="A car parallel-parks using only forward/backward and spins, tracing a zigzag Lie-bracket path"/> |
+
 </div>
 
 ---
